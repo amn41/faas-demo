@@ -1,3 +1,3 @@
 # faas-demo
 
-hello world example..
+hello world example.
